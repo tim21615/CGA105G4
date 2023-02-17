@@ -20,11 +20,5 @@
 ------
 👉 [專題負責項目 PDF 介紹](https://drive.google.com/file/d/1XyUrBH4nKZue_NtHDtiKnJxIK9obEGpI/view)
 
-<div id="user-content-toc">
-  <ul>
-    <summary style="list-style: none;"><h2 style="display: block;">首頁瀏覽</h1></summary>
-  </ul>
-</div>
+👉 [專題負責項目影片介紹](https://www.youtube.com/watch?v=JLeeXwm9ID8)
 
-<img src="https://user-images.githubusercontent.com/26355348/219583444-0de9f13d-b41e-4461-93c2-33a7a61873ee.png" width="80%" >
-<img src="https://user-images.githubusercontent.com/26355348/219584001-71ea1f65-e12b-4a6d-a7af-f85d6dba2eea.png" width="80%" >
