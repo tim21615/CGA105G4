@@ -19,9 +19,12 @@
 *   MySQL
 *   Ajax
 ------
+
+
+<img src="https://user-images.githubusercontent.com/26355348/219590156-2341b3b8-24ca-4e30-9e3f-d4b3b238326f.png" width="100%">
+
 👉 [專題負責項目 PDF 介紹](https://drive.google.com/file/d/1XyUrBH4nKZue_NtHDtiKnJxIK9obEGpI/view)
 
 👉 [專題負責項目影片介紹](https://www.youtube.com/watch?v=JLeeXwm9ID8)
 
-<img src="https://user-images.githubusercontent.com/26355348/219590156-2341b3b8-24ca-4e30-9e3f-d4b3b238326f.png">
 
